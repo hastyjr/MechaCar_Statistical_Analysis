@@ -7,7 +7,7 @@ The purpose of this analysis is to help AutosRUs’ manufacturing team with insi
 
 ## Deliverable 1
 ## Linear Regression to Predict MPG
-Deliverable 1 is a linear regression analysis that predicts the mpg of MechaCar prototypes using several variables from the [MechaCar_mpg.csv](https://github.com/emmanuelmartinezs/MechaCar_Statistical_Analysis/blob/main/Resources/MechaCar_mpg.csv) file. The variables used in the analysis are vehicle length, vehicle weight, spoiler angle, ground clearance, and AWD. The analysis is performed using R and the lm() function. The results of the analysis are shown below:
+Deliverable 1 is a linear regression analysis that predicts the mpg of MechaCar prototypes using several variables from the [MechaCar_mpg.csv](https://github.com/hastyjr/MechaCar_Statistical_Analysis/blob/main/Resources/MechaCar_mpg.csv) file. The variables used in the analysis are vehicle length, vehicle weight, spoiler angle, ground clearance, and AWD. The analysis is performed using R and the lm() function. The results of the analysis are shown below:
 
 ![Deliverable 1](https://github.com/hastyjr/MechaCar_Statistical_Analysis/blob/main/Resources/images/Deliverable_1_linearRegression_lm.png)
 
