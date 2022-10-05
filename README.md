@@ -69,9 +69,13 @@ The results of the analysis show that the PSI for manufacturing lot 3 is statist
 
 Deliverable 4 is a statistical study design that compares the MechaCar to the competition. The study design is performed using R and the t.test() function.
 
+![Deliverable 4](https://github.com/hastyjr/MechaCar_Statistical_Analysis/blob/main/Resources/images/Deliverable_4_statistacal_design.png)
+
 The metrics that will be tested are city and highway fuel efficiency, safety rating, and cost. 
 
 Within this analyisis, the null hypothesis is that there is no difference between the MechaCar and the competition. 
+
+![Deliverable 4](https://github.com/hastyjr/MechaCar_Statistical_Analysis/blob/main/Resources/images/Deliverable_4_analytical_errors.png)
 
 The alternative hypothesis showed that there is a difference between the MechaCar and the competition. 
 
@@ -81,6 +85,8 @@ The data will need to be collected:
 * over a period of time to account for seasonal and weather changes
 * from a large enough sample size to ensure statistical significance
 * from a representative sample of the population. 
+
+![Deliverable 4](https://github.com/hastyjr/MechaCar_Statistical_Analysis/blob/main/Resources/images/Deliverable_4_a_b_testing.png)
 
 In Summary, the statistical study design that compares the MechaCar to the competition is a two-sample t-test. The data needed to run the statistical test is the city and highway fuel efficiency, safety rating, and cost against both the MechaCar and the competition. The data will need to be collected over a period of time to account for seasonal and weather changes, from a large enough sample size to ensure statistical significance, and from a representative sample of the population.
 
