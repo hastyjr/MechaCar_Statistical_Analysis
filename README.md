@@ -1,8 +1,8 @@
 # MechaCar_Statistical_Analysis
 ## Overview of the analysis
 The purpose of this analysis is to help AutosRUs’ manufacturing team with insights on how the production process is working. The team has asked for a statistical analysis of the production data in order to identify any areas of improvement. The analysis will be performed using R and the following datasets:
-- ![MechaCar_mpg.csv](https://github.com/hastyjr/MechaCar_Statistical_Analysis/blob/main/Resources/MechaCar_mpg.csv)
-- ![Suspension_Coil.csv](https://github.com/hastyjr/MechaCar_Statistical_Analysis/blob/main/Resources/Suspension_Coil.csv)
+- [MechaCar_mpg.csv](https://github.com/hastyjr/MechaCar_Statistical_Analysis/blob/main/Resources/MechaCar_mpg.csv)
+- [Suspension_Coil.csv](https://github.com/hastyjr/MechaCar_Statistical_Analysis/blob/main/Resources/Suspension_Coil.csv)
 
 
 ## Deliverable 1:
