@@ -9,7 +9,7 @@ The purpose of this analysis is to help AutosRUs’ manufacturing team with insi
 
 ----
 
-## Deliverable :one
+## Deliverable :one: 
 
 ## :chart_with_upwards_trend: Linear Regression to Predict MPG
 
@@ -23,7 +23,7 @@ The results of the analysis show that the variables provided are statistically u
 
 ---
 
-## Deliverable :two
+## Deliverable :two:
 
 ## :bar_chart: Summary Statistics on Suspension Coils
 
