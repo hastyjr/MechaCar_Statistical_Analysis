@@ -26,3 +26,23 @@ Deliverable 2 is a summary statistics analysis of the suspension coil’s PSI ca
 ![Deliverable 2](https://github.com/hastyjr/MechaCar_Statistical_Analysis/blob/main/Resources/images/Deliverable_2_boxplot_individualLot.png)
 
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed `100 pounds per square inch`. The current manufacturing data meets this design specification for all manufacturing lots in total and each lot individually. The variance for all manufacturing lots is `62.29`, which is well below the `100` pound per square inch limit. The variance for manufacturing lot 1 is `0.98`, which is well below the `100` pound per square inch limit. The variance for manufacturing lot 2 is `7.47`, which is well below the `100` pound per square inch limit. The variance for manufacturing lot 3 is `170.29`, which is well above the `100` pound per square inch limit.
+
+---
+
+## Deliverable 3
+## T-Tests on Suspension Coils
+
+Deliverable 3 is a t-test analysis of the suspension coil’s PSI capacity using the [Suspension_Coil.csv]()
+
+The analysis is performed using R and the t.test() function. The results of the analysis are shown below:
+
+![Deliverable 3]()
+![Deliverable 3]()
+
+The results of the analysis show that the PSI across all manufacturing lots is statistically different from the population mean of `1,500` pounds per square inch. The `p-value` is `0.06028`, which is much larger than the assumed significance level of `0.05%`. This means that there is insufficient evidence to reject the null hypothesis, which states that there is no difference between the sample mean and the population mean. The `p-value` is `0.06028`, which is much larger than the assumed significance level of `0.05%`. This means that there is insufficient evidence to reject the null hypothesis, which states that there is no difference between the sample mean and the population mean.
+
+The results of the analysis show that the PSI for manufacturing lot 1 is statistically different from the population mean of `1,500` pounds per square inch. The `p-value` is `1`, which is much larger than the assumed significance level of `0.05%`. This means that there is insufficient evidence to reject the null hypothesis, which states that there is no difference between the sample mean and the population mean.
+
+The results of the analysis show that the PSI for manufacturing lot 2 is statistically different from the population mean of `1,500` pounds per square inch. The `p-value` is `0.6072`, which is much larger than the assumed significance level of `0.05%`. This means that there is insufficient evidence to reject the null hypothesis, which states that there is no difference between the sample mean and the population mean.
+
+The results of the analysis show that the PSI for manufacturing lot 3 is statistically different from the population mean of `1,500` pounds per square inch. The `p-value` is `0.04168`, which is much smaller than the assumed significance level of `0.05%`. This means that there is sufficient evidence to reject the null hypothesis, which states that there is no difference between the sample mean and the population mean.
