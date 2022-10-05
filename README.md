@@ -37,7 +37,7 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 ---
 
-## Deliverable :three
+## Deliverable :three:
 
 ## :memo: T-Tests on Suspension Coils
 
@@ -67,4 +67,21 @@ The results of the analysis show that the PSI for manufacturing lot 3 is statist
 
 ## :blue_book: Study Design: MechaCar vs Competition
 
+Deliverable 4 is a statistical study design that compares the MechaCar to the competition. The study design is performed using R and the t.test() function.
 
+The metrics that will be tested are city and highway fuel efficiency, safety rating, and cost. 
+
+Within this analyisis, the null hypothesis is that there is no difference between the MechaCar and the competition. 
+
+The alternative hypothesis showed that there is a difference between the MechaCar and the competition. 
+
+Meanwhile, the statistical test used is a two-sample t-test. The data needed to run the statistical test is the city and highway fuel efficiency, safety rating, and cost against both the MechaCar and the competition. 
+
+The data will need to be collected:
+* over a period of time to account for seasonal and weather changes
+* from a large enough sample size to ensure statistical significance
+* from a representative sample of the population. 
+
+In Summary, the statistical study design that compares the MechaCar to the competition is a two-sample t-test. The data needed to run the statistical test is the city and highway fuel efficiency, safety rating, and cost against both the MechaCar and the competition. The data will need to be collected over a period of time to account for seasonal and weather changes, from a large enough sample size to ensure statistical significance, and from a representative sample of the population.
+
+---
